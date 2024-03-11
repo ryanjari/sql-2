@@ -1,5 +1,4 @@
-1. Normalize this table from 1NF to 3NF
-Student_Grade_Report 
+1. Normalize this table from 1NF to 3NF Student_Grade_Report 
 (StudentNo, StudentName, Major, CourseNo, CourseName, InstructorNo, InstructorName, InstructorLocation, Grade)
 (HINT: in 3NF, there will be 4 tables)
 2. Create ERD based on the table you normalized 
